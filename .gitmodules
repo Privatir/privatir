@@ -1,0 +1,6 @@
+[submodule "privatir-api"]
+	path = privatir-api
+	url = https://github.com/Privatir/privatir-api
+[submodule "privatir-frontend"]
+	path = privatir-frontend
+	url = https://github.com/Privatir/privatir-frontend
