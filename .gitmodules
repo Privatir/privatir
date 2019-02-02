@@ -7,3 +7,6 @@
 [submodule "privatir-frontend"]
 	path = privatir-chef-repo
 	url = https://github.com/Privatir/privatir-chef-repo
+[submodule "privatir-chef-repo"]
+	path = privatir-chef-repo
+	url = https://github.com/Privatir/privatir-chef-repo.git
