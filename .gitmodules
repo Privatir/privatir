@@ -10,3 +10,6 @@
 [submodule "privatir-fe"]
 	path = privatir-fe
 	url = git@github.com:Privatir/privatir-fe.git
+[submodule "privatir-client"]
+	path = privatir-client
+	url = git@github.com:Privatir/privatir-client.git
